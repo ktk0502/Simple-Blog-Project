@@ -1,3 +1,5 @@
+Sorry for inconvenience , but his repo has structre issues please visit https://github.com/ktk0502/Blog
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
